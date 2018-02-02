@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="EnterLayout">
+        <attr name="textSubject" format="string|reference"/>
+        <attr name="hideArrow" format="boolean"/>
+    </declare-styleable>
+
+</resources>

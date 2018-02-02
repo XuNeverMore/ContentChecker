@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--主题色-->
+    <color name="colorTheme">#102B50</color>
+    <!--TextSwitchView-->
+    <color name="colorSwitchBg">#c9c7c7</color>
+
+
+
+    <color name="colorText">#333333</color>
+    <color name="colorGray">#999999</color>
+
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorPressed">#e7e7e7</color>
+    <color name="colorTransparent">#00000000</color>
+
+    <color name="colorUnSelected">#999999</color>
+
+    <color name="colorThemeBlue">#4A90E2</color>
+    <color name="colorMsgRed">#ff3333</color>
+    <color name="colorDivider">#dfdfdf</color>
+
+
+    <!--金色-->
+    <color name="colorGolden">#FDCE45</color>
+    <!--银色-->
+    <color name="colorSlivery">#B5C8CC</color>
+    <!--铜色-->
+    <color name="colorCoppery">#B06F3B</color>
+
+    <!--topbar背景色-->
+    <color name="colorTopBarBg">#102B50</color>
+    <!--topbar中间文字颜色-->
+    <color name="topbarCenterTextColor">#ffffff</color>
+    <!--所有窗口背景色-->
+    <color name="colorWindowBackground">#f3f3f3</color>
+
+</resources>

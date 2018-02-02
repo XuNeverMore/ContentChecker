@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TopBar">
+        <attr name="centerText" format="string|reference"/>
+        <attr name="rightText" format="string"/>
+        <attr name="hideBack" format="boolean"/>
+        <attr name="is_add_more" format="boolean"/>
+        <attr name="right_add_icom" format="reference"/>
+        <attr name="rightIcon" format="reference"/>
+    </declare-styleable>
+</resources>

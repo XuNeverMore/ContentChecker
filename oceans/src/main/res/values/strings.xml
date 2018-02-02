@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Oceans</string>
+    <string name="get_code">获取验证码</string>
+</resources>

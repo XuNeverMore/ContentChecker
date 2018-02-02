@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--比例布局-->
+    <declare-styleable name="PercentRelativeLayout">
+        <attr name="widthSize" format="float"/>
+        <attr name="heightSize" format="float"/>
+
+        <attr name="fixFlag">
+            <enum name="width" value="0"/>
+            <enum name="height" value="1"/>
+        </attr>
+    </declare-styleable>
+
+
+
+    <!--搜索导航栏-->
+    <declare-styleable name="SearchBar">
+        <attr name="textRight" format="string"/>
+        <attr name="searchHint" format="string"/>
+    </declare-styleable>
+
+
+
+    <!--评分条-->
+    <declare-styleable name="RatingBar">
+        <attr name="starNormalIcon" format="reference"/>
+        <attr name="starCheckedIcon" format="reference"/>
+        <attr name="starSize" format="dimension"/>
+        <attr name="starPadding" format="dimension"/>
+        <attr name="starMaxCount" format="integer"/>
+        <attr name="starCurCount" format="integer"/>
+    </declare-styleable>
+
+
+    <!--流式布局-->
+    <declare-styleable name="FlowLayout">
+
+        <attr name="horizontalSpacing" format="dimension"/>
+        <attr name="verticalSpacing" format="dimension"/>
+    </declare-styleable>
+</resources>
